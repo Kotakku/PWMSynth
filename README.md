@@ -6,6 +6,7 @@ https://ja.osdn.net/users/kamide/pf/PWMDAC_Synth/wiki/FrontPage
 ↑こちらのライブラリを参考にしてほしい機能だけ実装していく(予定)
 
 今のところ
+
 ・音は出る
 
 ・いろいろな音色を作れる
